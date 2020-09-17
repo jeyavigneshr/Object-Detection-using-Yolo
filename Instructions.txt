@@ -1,0 +1,12 @@
+######################
+INSTRUCTIONS
+######################
+Run the program in the following order
+1. Run query1.py first
+2. Run mobile_net/query2.py second
+3. Run mobile_net/query3.py third
+4. Run mobile_net/final_run.py last
+5. Testing results are available in Testing Results folder
+	Run project.py to generate a new csv file aligning with ground truth
+	Run Untitled.ipnyb file to generate f1 scores for all queries
+Note all diagrams were plotted in excel and not coded
